@@ -2,7 +2,7 @@
 ### The user of the program below is solely responsible for any consequences derived
 ### from decisions made based on it. No warranty is made to its accuracy, utility or completeness.
 ### horatio.fm@gmail.com
-### https://github.com/horatio-fm/blindspot
+### https://github.com/horatio-fm/car_blind_spot
 
 from pylab import *
 from matplotlib.widgets import Slider, Button, RadioButtons
